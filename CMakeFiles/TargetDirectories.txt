@@ -1,0 +1,3 @@
+/home/Yxp/build/CMakeFiles/rebuild_cache.dir
+/home/Yxp/build/CMakeFiles/hello.dir
+/home/Yxp/build/CMakeFiles/edit_cache.dir

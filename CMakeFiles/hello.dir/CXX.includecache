@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/Yxp/build/main.cpp
+clang/AST/ASTConsumer.h
+/home/Yxp/build/clang/AST/ASTConsumer.h
+clang/AST/RecursiveASTVisitor.h
+/home/Yxp/build/clang/AST/RecursiveASTVisitor.h
+clang/Frontend/CompilerInstance.h
+/home/Yxp/build/clang/Frontend/CompilerInstance.h
+clang/Frontend/FrontendAction.h
+/home/Yxp/build/clang/Frontend/FrontendAction.h
+clang/Tooling/Tooling.h
+/home/Yxp/build/clang/Tooling/Tooling.h
+
